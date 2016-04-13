@@ -23,12 +23,7 @@ gem 'jbuilder', '~> 2.0'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
 
-gem 'bootstrap', '~> 4.0.0.alpha3'
-
-# Use tether for positioning tooltips and popovers in bootstrap
-source 'https://rails-assets.org' do
-	gem 'rails-assets-tether', '>= 1.1.0'
-end
+gem 'bootstrap-sass', '~> 3.3.6'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'

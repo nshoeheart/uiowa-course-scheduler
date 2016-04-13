@@ -1,0 +1,23 @@
+{
+  "name": "uiowa-course-scheduler",
+  "homepage": "https://github.com/nshoeheart/uiowa-course-scheduler",
+  "authors": [
+    "nshoeheart <nathan-schuchert@uiowa.edu>"
+  ],
+  "description": "uiowa course scheduler",
+  "main": "n/a",
+  "keywords": [
+    "course",
+    "scheduling",
+    "tool"
+  ],
+  "license": "GNU",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/assets/components",
+    "test",
+    "tests"
+  ]
+}
